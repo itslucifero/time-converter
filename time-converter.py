@@ -17,7 +17,7 @@ while data.lower() != 'quit':
     If you want to convert hours to days enter : htd
     If you want to convert seconds to days enter : std
     If you want to convert minutes to days enter : mtd
-    If you want to convert seconds to hours enter : hts
+    If you want to convert seconds to hours enter : sth
 
     Type QUIT to quit the program!
 
